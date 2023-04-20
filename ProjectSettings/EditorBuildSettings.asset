@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JengaSchool/Scenes/JengaSchool.unity
+    guid: 0175d789b6549c64f83e0f46cb9a6160
   m_configObjects: {}
